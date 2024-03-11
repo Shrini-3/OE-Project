@@ -46,12 +46,12 @@ Quality assurance in subtitling includes checking:
   You can also customize the auto-captioning settings to enhance creativity.
 
 4.Cost Consideration-
-Captioning prices can differ from vendor to vendor. Ultimately, pricing will come down to video duration, service, features, and quality.
-Most vendors charge per minute. Captioning rates can range from $1 per minute to $15 per minute. Some vendors round up per minute, which can add up quickly if you have many short files.
-Some vendors also charge fees. For example, vendors might charge extra for multiple speakers, caption formats, resubmissions, or video platform integrations.
-Using automatic speech recognition (ASR) is cheap and fast but often painfully inaccurate. 
-YouTube, for example, offers free automatic captioning, but accuracy rates can range from 60% to 70%. 
-Thus, you end up spending more time fixing your ASR captions.
+ Captioning prices can differ from vendor to vendor. Ultimately, pricing will come down to video duration, service, features, and quality.
+ Most vendors charge per minute. Captioning rates can range from $1 per minute to $15 per minute. Some vendors round up per minute, which can add up quickly if you have many short files.
+ Some vendors also charge fees. For example, vendors might charge extra for multiple speakers, caption formats, resubmissions, or video platform integrations.
+ Using automatic speech recognition (ASR) is cheap and fast but often painfully inaccurate. 
+ YouTube, for example, offers free automatic captioning, but accuracy rates can range from 60% to 70%. 
+ Thus, you end up spending more time fixing your ASR captions.
 5.File formats-
  SubRipper (.srt)
  The SubRipper format, commonly known as SRT, is widely supported by subtitle converters and players. 

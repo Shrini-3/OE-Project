@@ -1,0 +1,94 @@
+Problem Statement:
+Developing an efficient and user-friendly subtitle service tailored specifically for YouTube Shorts to enhance accessibility and engagement for a diverse audience.
+Background Study:
+1.User Experience and Preferences-
+50% of Americans turn on subtitles “most of the time.” That number jumps all the way up to 80% for Gen Z.
+
+And it’s not just personal preference. Data shows that subtitles and captions matter for viewer retention and engagement, too (aka what really matters
+
+Facts about subtitles
+80% of viewers are more likely to finish a video with subtitles
+85% of all videos on Facebook are watched with the sound off
+80% of viewers respond negatively to video ads that auto-play sound
+37% of viewers said video subtitles encourage them to turn the sound on
+One company saw an 7.32% total increase in YouTube views after adding subtitles
+61% of people who localize their video content translate their subtitles
+
+A joint study from Verizon and Publicis Media found up to 80% of viewers are more likely to finish a video with subtitles. Half of those viewers preferred captions because they like watching videos with sound off.
+
+Platforms affect a viewer's preferences as well: Meta famously reported that 85% of all Facebook videos were being watched with the sound off. Preference for subtitles is still strong for longer-form videos as we'll cover below, but this is a good signal that captions go from nice-to-have to must-have for short-form video on social media.
+2.Quality Control and Editing Tools-
+Quality assurance in subtitling includes checking:
+ Audio Synchronization
+ Timing and Duration
+ Text Formatting
+ Platform and Device Compatibility
+ Language Accuracy
+ Consistency and Style
+ Synchronization
+ Line breaks
+ Typography and positioning, 
+ Idioms and cultural expressions,
+3.Integration with Video Platform-
+  VEED.IO-
+  VEED.IO offers video subtitling in three main ways: 
+  a)Manual typing, 
+  b)Automatic subtitle generating,
+  c)Uploading a text file (it supports the formats of SRT, VTT, TXT, ASS, SSA). Irrespective of how you wish to subtitle the video, you can decide the text’s fonts, colors, size, and timings.
+  Rev
+  Rev’s services to add subtitles to video makes your video appealing, boosts your SEO, and helps you cater to a larger audience. 
+  It works with almost any format, from MP4, MOV, and VOB to AVI and OGG.
+  AmberScript
+  You have both with AmberScript — man and the machine for subtitling and transcribing.
+  While their AI engine can subtitle in 39 languages, their experts can do it in eleven languages.
+  They have pre-paid and subscription-based plans for automatic subtitling. And the manual service is time-based and also offers translated subtitling.
+  SubtitleBee
+  SubtitleBee is an AI-powered video subtitle generator. 
+  You can add closed captions and change the head title in different styles, fonts, and colors to make your video attractive. 
+  You can also customize the auto-captioning settings to enhance creativity.
+
+4.Root Consideration-
+5.File formats-
+6.WCAG for accesibility standards and compilance mclurivity-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proposed Solution:
+Creating an interactive website which gives you the accurate subtitle for Youtube shorts by integarting youtube API's for video processing and subtitle generation. 
+
+
+
+
+
+

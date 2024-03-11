@@ -72,6 +72,29 @@ Thus, you end up spending more time fixing your ASR captions.
  STL (Spruce Subtitle File) is a widely used binary subtitle format primarily employed in the broadcasting and video production industries. 
  STL files contain graphical representations of subtitles in the form of bitmaps, allowing for precise styling, positioning, and timing.
 6.WCAG for accesibility standards and compilance inclusivity-
+ What is required in the WCAG standard at Level A, AA, and AAA. (WCAG is introduced in the Planning page of this resource.)
+ What is needed to meet user needs, beyond WCAG. If there are no “A”s, then it is not required in WCAG.
+ Audio-only (e.g., podcast):
+ For pre-recorded:
+ Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.
+ Captions are not required to meet WCAG. (Transcripts are at Level A.)
+ For live:
+ Captions are useful for people who are hard of hearing to get the richness of listening to the audio and fill in what they don’t hear well by reading the captions.
+ Live text stream or accurate script of the audio available when live is in WCAG at Level AAA.
+ Video-only (no audio content):
+ For pre-recorded and live:
+ Captions are not needed because there is no audio information.
+ Video with audio content:
+ Does the video have audio information that is needed to understand what the video is communicating?
+ If no (for example, it is just background music):
+ Captions are not needed because there is no important audio content. Consider informing users.
+ If yes:
+ For pre-recorded:
+ Captions are needed to provide the audio content to people who are Deaf or hard of hearing.
+ Captions are required in WCAG at Level A.
+ For live:
+ Captions are needed to provide the audio content to people who are Deaf or hard of hearing.
+ Captions are required in WCAG at Level AA.
 Design:
 
 

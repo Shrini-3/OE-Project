@@ -4,6 +4,10 @@
 
 # Problem Statement:
 Developing an efficient and user-friendly subtitle service tailored specifically for YouTube Shorts to enhance accessibility and engagement for a diverse audience.
+
+# Abstract:
+Recently, with the development of Speech to Text, which converts voice to text, and machine translation,technologies for simultaneously translating the captions of video into other languages have been developed. Using this, YouTube, a video-sharing site, provides captions in many languages.Currently, the automatic caption system extracts voice data when uploading a video and provides asubtitle ﬁle converted into text. This method creates subtitles suitable for the running time. Since the generated subtitles are separated by time units rather than sentence units, and are translated, it is very diﬃcult to understand the translation result as a whole.So as the solution for this we will be creating a model which extracts subtitle from vedio uploaded simultaneously.In addition, we expect that language barriers in online education will be more easily broken by achieving more accurate translations of numerous video lectures in English.
+
 ## Background Study:
 1.User Experience and Preferences-
 50% of Americans turn on subtitles “most of the time.” That number jumps all the way up to 80% for Gen Z.

@@ -1,5 +1,3 @@
-# OE-Project
-
 ## SUBTITLE SERVICES FOR YOUTUBE SHORTS
 
 # Problem Statement:

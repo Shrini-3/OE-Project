@@ -105,3 +105,33 @@ Quality assurance in subtitling includes checking:
 
 # Proposed Solution:
 Creating an interactive website which gives you the accurate subtitle for Youtube shorts by integarting youtube API's for video processing and subtitle generation. 
+
+# WorkFLow Of the Project:
+workflow of the project is being described as:
+
+Front End with Flask:
+Python Flask is used to create a web application that handles user authentication and serves HTML and CSS files to the client (web browser).
+Flask provides routes (URL endpoints) that respond to HTTP requests from the client, such as requests for login, registration, and accessing protected pages.
+Website (HTML and CSS):
+HTML (Hypertext Markup Language) is used to structure the content of web pages.
+CSS (Cascading Style Sheets) is used to style the HTML elements, controlling their appearance and layout.
+Together, HTML and CSS are used to create the visual presentation of the website, including its layout, colors, fonts, and other stylistic elements.
+Video to Text Transition with MoviePy:
+MoviePy is a Python library used for video editing and manipulation.
+In this project, MoviePy is used specifically for converting video content into text subtitles.
+The process typically involves the following steps:
+a)Extracting Audio: The video's audio track is extracted using MoviePy.
+b)Speech Recognition: The extracted audio is then processed using a speech recognition library (e.g., Google's Speech Recognition API or CMU Sphinx) to transcribe spoken words into text.
+c)Subtitle Generation: The transcribed text is formatted into subtitle text format, typically with timestamps indicating when each subtitle should appear on the screen.
+d)Overlaying Subtitles: The generated subtitles are overlaid onto the video frames using MoviePy, creating a new video file with embedded subtitles.
+This process allows users to watch the video with accompanying text subtitles, enhancing accessibility and usability.
+
+# Outline of the Project Implemented:
+1.Set up a Flask web application with routes for user authentication, login, and protected pages.
+2.Create HTML templates for the website's pages, including login and protected content pages, and style them with CSS.
+3.Implement the video-to-text transition functionality using MoviePy:
+4.Install MoviePy and any necessary dependencies.
+5.Write Python code to extract audio from videos, perform speech recognition, generate subtitles, and overlay them onto the video frames.
+6.Integrate this functionality into your Flask application, allowing users to upload videos and receive subtitles in return.
+7.Test the application to ensure that users can authenticate, upload videos, and view them with subtitles.
+8.Deploy the Flask application to a web server so that users can access it online.

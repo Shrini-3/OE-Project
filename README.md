@@ -107,7 +107,7 @@ Quality assurance in subtitling includes checking:
 Creating an interactive website which gives you the accurate subtitle for Youtube shorts by integarting youtube API's for video processing and subtitle generation. 
 
 # WorkFLow Of the Project:
-workflow of the project is being described as:
+Workflow of the project is being described as:
 
 Front End with Flask:
 Python Flask is used to create a web application that handles user authentication and serves HTML and CSS files to the client (web browser).

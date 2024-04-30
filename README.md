@@ -112,10 +112,14 @@ workflow of the project is being described as:
 Front End with Flask:
 Python Flask is used to create a web application that handles user authentication and serves HTML and CSS files to the client (web browser).
 Flask provides routes (URL endpoints) that respond to HTTP requests from the client, such as requests for login, registration, and accessing protected pages.
+
+
 Website (HTML and CSS):
 HTML (Hypertext Markup Language) is used to structure the content of web pages.
 CSS (Cascading Style Sheets) is used to style the HTML elements, controlling their appearance and layout.
 Together, HTML and CSS are used to create the visual presentation of the website, including its layout, colors, fonts, and other stylistic elements.
+
+
 Video to Text Transition with MoviePy:
 MoviePy is a Python library used for video editing and manipulation.
 In this project, MoviePy is used specifically for converting video content into text subtitles.

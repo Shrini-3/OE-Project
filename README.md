@@ -125,8 +125,11 @@ MoviePy is a Python library used for video editing and manipulation.
 In this project, MoviePy is used specifically for converting video content into text subtitles.
 The process typically involves the following steps:
 a)Extracting Audio: The video's audio track is extracted using MoviePy.
+
 b)Speech Recognition: The extracted audio is then processed using a speech recognition library (e.g., Google's Speech Recognition API or CMU Sphinx) to transcribe spoken words into text.
+
 c)Subtitle Generation: The transcribed text is formatted into subtitle text format, typically with timestamps indicating when each subtitle should appear on the screen.
+
 d)Overlaying Subtitles: The generated subtitles are overlaid onto the video frames using MoviePy, creating a new video file with embedded subtitles.
 This process allows users to watch the video with accompanying text subtitles, enhancing accessibility and usability.
 

@@ -132,10 +132,17 @@ This process allows users to watch the video with accompanying text subtitles, e
 
 # Outline of the Project Implemented:
 1.Set up a Flask web application with routes for user authentication, login, and protected pages.
+
 2.Create HTML templates for the website's pages, including login and protected content pages, and style them with CSS.
+
 3.Implement the video-to-text transition functionality using MoviePy:
+
 4.Install MoviePy and any necessary dependencies.
+
 5.Write Python code to extract audio from videos, perform speech recognition, generate subtitles, and overlay them onto the video frames.
+
 6.Integrate this functionality into your Flask application, allowing users to upload videos and receive subtitles in return.
+
 7.Test the application to ensure that users can authenticate, upload videos, and view them with subtitles.
+
 8.Deploy the Flask application to a web server so that users can access it online.

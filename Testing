@@ -1,1 +1,1 @@
-
+**The workflow used automates the process of building, testing, and deploying a Python Flask application. It sets up the necessary environment, installs dependencies, runs tests, performs linting, and starts the Flask application. You can customize this workflow according to your specific project requirements.**
